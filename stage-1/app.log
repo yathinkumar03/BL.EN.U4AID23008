@@ -1,0 +1,5 @@
+[${time}] ${message}
+[${time}] ${message}
+[2026-05-06T09:36:46.756Z] Notification processing started
+[2026-05-06T09:36:46.757Z] Top 10 notifications generated
+[2026-05-06T09:36:46.760Z] Notifications displayed successfully
